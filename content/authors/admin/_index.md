@@ -43,6 +43,7 @@ interests:
 education:
   - area: PhD in Department of Electronic Engineering 
     institution: City University of Hong Kong
+    date_start: 2011-09
     date_end: 2014-11
     
 work:
@@ -75,7 +76,7 @@ work:
     school/college: School of Science and Technology
     institution: Hong Kong Metropolitan University
     date_start: 2023-01
-    date_end: present
+    date_end: ''
 
 # Awards.
 #   Add/remove as many awards below as you like.
