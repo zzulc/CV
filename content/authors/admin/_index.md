@@ -6,7 +6,8 @@ title: 王丹
 name_pronunciation: Debby Dan Wang
 
 # Full name (for SEO)
-first_name: Debby Dan
+first_name: Debby
+middle_name: Dan
 last_name: Wang
 # Status emoji
 status:
