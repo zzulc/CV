@@ -81,5 +81,4 @@ work:
 ---
 
 ## About Me
-
-Dr. WANG Dan received her PhD degree from Department of Electronic Engineering, City University of Hong Kong in 2014. Afterwards, she pursued her research in multiple institutes, including City University of Hong Kong (2015 - Postdoc, 2019 - RF), Caritas Institute of Higher Education (2016 - RF), National University of Singapore (2017-2018 - RF) and University of Shanghai for Science and Technology (2020-2022 - AP). She is now working as an Assistant Professor in School of Science and Technology, Hong Kong Metropolitan University.
+Dr. Debby Dan Wang received her PhD degree from the Department of Electronic Engineering at City University of Hong Kong in 2014. She has held research positions at City University of Hong Kong (Postdoc, 2015-2016; Research Fellow, 2019-2020), Caritas Institute of Higher Education (Research Fellow, 2016-2017), National University of Singapore (Research Fellow, 2017-2018), and University of Shanghai for Science and Technology (Assistant Professor, 2020-2022). Currently, she serves as an Assistant Professor in the School of Science and Technology at Hong Kong Metropolitan University.
