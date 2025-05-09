@@ -44,40 +44,40 @@ interests:
 education:
   - area: PhD in Department of Electronic Engineering 
     institution: City University of Hong Kong
-    date_start: 2011-09
-    date_end: 2014-11
+    date_start: 2011-09-01
+    date_end: 2014-11-01
     
 work:
   - position: Postdoc
     institution: City University of Hong Kong
-    date_start: 2015-01
-    date_end: 2016-01
+    date_start: 2015-01-01
+    date_end: 2016-01-01
 
   - position: Research Fellow
     institution: Caritas Institute of Higher Education
-    date_start: 2016-01
-    date_end: 2017-01
+    date_start: 2016-01-01
+    date_end: 2017-01-01
 
   - position: Research Fellow
     institution: National University of Singapore
-    date_start: 2017-01
-    date_end: 2018-12
+    date_start: 2017-01-01
+    date_end: 2018-12-01
 
   - position: Research Fellow
     institution: City University of Hong Kong
-    date_start: 2019-01
-    date_end: 2020-01
+    date_start: 2019-01-01
+    date_end: 2020-01-01
 
   - position: Assistant Professor
     institution: City University of Hong Kong
-    date_start: 2020-01
-    date_end: 2022-12
+    date_start: 2020-01-01
+    date_end: 2022-12-01
 
   - position: Assistant Professor
     school/college: School of Science and Technology
     institution: Hong Kong Metropolitan University
-    date_start: 2023-01
-    date_end: ''
+    date_start: 2023-01-01
+    date_end: present
 ---
 
 ## About Me
