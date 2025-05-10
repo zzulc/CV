@@ -22,7 +22,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
@@ -38,10 +37,9 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          name: jekyll-site-${{ github.run_id }}  # 唯一名称
+          name: jekyll-site-${{ github.run_id }}  # 动态名称
           path: ./_site
 
-  # Deployment job
   deploy:
     environment:
       name: github-pages
@@ -52,5 +50,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:  
-          artifact: jekyll-site-${{ needs.build.outputs.artifact_name }}  # 需在 build 任务中定义输出变量
+        with:
+          artifact_name: jekyll-site-${{ github.run_id }}  # 与上传名称一致
