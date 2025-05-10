@@ -8,9 +8,6 @@ name_pronunciation: Debby Dan Wang
 # Full name (for SEO)
 first_name: Dan
 last_name: Wang
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
