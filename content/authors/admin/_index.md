@@ -6,8 +6,7 @@ title: 王丹
 name_pronunciation: Debby Dan Wang
 
 # Full name (for SEO)
-first_name: Debby
-middle_name: Dan
+first_name: Dan
 last_name: Wang
 # Status emoji
 status:
@@ -32,7 +31,6 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'dwang@hkmu.edu.hk'
-    label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com.hk/citations?hl=en&user=c_Fwfw0AAAAJ
 
