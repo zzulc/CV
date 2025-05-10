@@ -75,7 +75,7 @@ work:
     school/college: School of Science and Technology
     institution: Hong Kong Metropolitan University
     date_start: 2023-01-01
-    date_end: present
+    date_end: ""
 ---
 
 ## About Me
