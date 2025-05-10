@@ -52,3 +52,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:  
+          artifact: jekyll-site-${{ needs.build.outputs.artifact_name }}  # 需在 build 任务中定义输出变量
