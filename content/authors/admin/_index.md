@@ -20,8 +20,12 @@ role:  Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: School of Science and Technology, Hong Kong Metropolitan University
+  - name: School of Science and Technology,
+  - name: Hong Kong Metropolitan University
     url: https://www.hkmu.edu.hk/
+
+# Email
+Email:  dwang@hkmu.edu.hk
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
